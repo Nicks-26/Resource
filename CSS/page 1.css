@@ -1,0 +1,40 @@
+body {
+    /* background-image: url(/images/phl\ gov.jpg); */
+    color: black;
+    background-size: 100%;
+}
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+article {
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    text-align: left;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+
+.btn {
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 25px;
+    border: none;
+}
+
+.author {
+    text-align: center;
+    color: black;
+    padding-bottom: 20px;
+}

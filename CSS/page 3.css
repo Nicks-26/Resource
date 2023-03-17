@@ -1,0 +1,31 @@
+.btn {
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 25px;
+    border: none;
+}
+
+article {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+}
+
+img {
+    padding-top: 150px;
+    padding-bottom: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    padding-bottom: 50px;
+}
+
+.author {
+    padding-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+}
+

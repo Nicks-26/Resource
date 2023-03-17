@@ -1,0 +1,12 @@
+body {
+    background-image: url(/images/back\ copy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 25px;
+    border: none;
+}
