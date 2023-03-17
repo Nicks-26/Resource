@@ -4,6 +4,10 @@ body {
     background-size: 100%;
 }
 
+.all {
+    background-color: gray;
+}
+
 .img-fluid {
     display: block;
     margin-left: auto;

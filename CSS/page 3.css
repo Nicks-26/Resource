@@ -5,6 +5,10 @@
     border: none;
 }
 
+.all {
+    background-color: lightgray;
+}
+
 article {
     padding-left: 150px;
     padding-right: 150px;
